@@ -1,0 +1,9 @@
+*.sqlite3
+tags
+.tags
+static
+logfile*
+**/**/media/
+**/static/
+**/cache/
+*.pyc

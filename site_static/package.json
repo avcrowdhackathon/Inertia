@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "wavesurfer.js": "^3.3.1"
+  }
+}
