@@ -23,6 +23,10 @@ Tα static files, διαχειρίζονται μέσω `npm` ή `yarn`. Μέσ�
 
     $ python manage.py runserver
 
+## Σχεδίαση & Ροή Εφαρμογής
+
+https://invis.io/N4WPDVP6QTU#/412347150_Login
+
 ## Άδεια
 
 Η άδεια κάτω από την οποία ειναι το project είναι εδώ: [LICENSE](LICENSE).
